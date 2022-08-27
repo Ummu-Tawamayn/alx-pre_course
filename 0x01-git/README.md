@@ -1,1 +1,1 @@
-git directory folder
+git directory folder edited from remote
